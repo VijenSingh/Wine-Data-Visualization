@@ -33,11 +33,13 @@ To run the solution on your local machine, follow these steps:
 
 ### Flavanoids Stats Table
 
-Screenshot 2023-07-06 at 2.36.14 PM.png
+![Screenshot 2023-07-06 at 4 52 37 PM](https://github.com/VijenSingh/Wine-Data-Visualization/assets/46666066/57184278-915d-4f2f-8b9f-95e01bfe105b)
+
 
 ### Gamma Stats Table
 
-Screenshot 2023-07-06 at 2.37.35 PM.png
+![Screenshot 2023-07-06 at 4 52 43 PM](https://github.com/VijenSingh/Wine-Data-Visualization/assets/46666066/27cfce61-0d6a-41db-a567-65997fa31425)
+
 
 ## Conclusion
 
